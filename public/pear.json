@@ -1,0 +1,37 @@
+[
+	{
+	  "id": 1,
+	  "name": "幸水",
+	  "url": "https://image.raku-uru.jp/01/10056/17/%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E6%A2%A8_1594704233837_1200.jpg",
+	  "description": "上品な甘さとシャキッとした食感が特徴！夏の季節にあった梨です！",
+	  "season": "8月初期 ~ 8月下旬"
+	},
+	{
+	  "id": 2,
+	  "name": "豊水",
+	  "url": "https://forest17.com/e53/e53m_9200.jpg",
+	  "description": "甘味と優しい酸味がマッチし、果汁あふれるジューシーな味わいです！",
+	  "season": "8月下旬 ~ 9月中旬"
+	},
+	{
+	  "id": 3,
+	  "name": "あかづき",
+	  "url": "https://img07.shop-pro.jp/PA01363/059/product/105536604_o2.jpg?cmsp_timestamp=20220613170358",
+	  "description": "酸味がなく、甘い果汁が口に広がる贅沢な味わいです",
+	  "season": "9月初旬 ~ 9月下旬"
+	},
+	{
+	  "id": 4,
+	  "name": "甘太",
+	  "url": "https://tsukijiichiba.s3.ap-northeast-1.amazonaws.com/user/images/product/22548.1.jpg",
+	  "description": "2015年に登録された新品種で、非常に糖度が高い梨です！",
+	  "season": "9月中旬 ~ 9月下旬"
+	},
+	{
+	  "id": 5,
+	  "name": "にっこり",
+	  "url": "https://cdn.macaro-ni.jp/assets/img/shutterstock/shutterstock_193012211.jpg",
+	  "description": "栃木県で育種された、甘くて歯触りの良い非常に大きな梨です！",
+	  "season": "10月初旬 ~ 11月中旬"
+	}
+]
